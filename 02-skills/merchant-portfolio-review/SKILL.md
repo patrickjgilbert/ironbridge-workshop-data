@@ -69,7 +69,7 @@ Applied to each merchant, each month. Action ladder: one month over an internal 
 - **Flags**: one row per merchant that crosses a Risk Policy line or shows a problem in the correspondence. Columns: priority, merchant, flag, line or rule, evidence (computed, as a formula string), dollars at stake (formula), what the dollars are, policy consequence / action, source files. Priority order: unauthorized over a line, concentration over 25% plus any retention risk, billing errors, merchants leaving, then trends and watch items. A second block lists every merchant at or over the administrative internal line in the latest month with its last three rates.
 - **Sources**: the file list with what was taken from each, then the pricing block, the master block, and the full activity data block (all rows, with helper columns for tier, monthly revenue and quarter). Every formula on the other tabs points here.
 
-Build it in one pass with openpyxl (`uv run --with openpyxl`). Do not test it unless asked; the user opens it.
+Build it with openpyxl (`uv run --with openpyxl`).
 
 Then say, in plain English, the three things to deal with this week with the dollars attached, and name anything that matters but is not a this-week item (a merchant already leaving, a trend).
 

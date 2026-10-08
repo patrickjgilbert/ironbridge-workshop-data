@@ -17,13 +17,13 @@ This folder is the merchant portfolio inbox my analyst left me and it is a mess.
 **Step 2, the workbook. Switch to Opus 5.5, same session.**
 
 ```
-Now build ironbridge-portfolio-review.xlsx from the activity exports, the merchant master and the pricing schedule. Rules: do every calculation with formulas or code, never in your head; count May once; every number must trace to a file and a row; use merchant names exactly as the master spells them; if something is missing or can be read two ways, stop and ask me before you build. Four tabs: Summary (TTM debit volume, TTM revenue, portfolio return rates by type, the top-5 merchants by volume with their share), By Merchant (one row per merchant: TTM debit volume, TTM revenue at the tier in the master, Q3 vs Q2 volume change, Sep unauthorized return rate, Sep administrative return rate, overall return rate), Flags (one row per merchant that crosses a line in the Risk Policy memo or shows a problem in the correspondence, with the dollars at stake and the source), and Sources (what you read and what you took from each). Then tell me in plain English the three things I should deal with this week, with the dollars attached. Build it in one pass and stop. Do not test it, I will open it myself.
+Now build ironbridge-portfolio-review.xlsx from the activity exports, the merchant master and the pricing schedule. Rules: do every calculation with formulas or code, never in your head; count May once; every number must trace to a file and a row; use merchant names exactly as the master spells them; if something is missing or can be read two ways, stop and ask me before you build. Four tabs: Summary (TTM debit volume, TTM revenue, portfolio return rates by type, the top-5 merchants by volume with their share), By Merchant (one row per merchant: TTM debit volume, TTM revenue at the tier in the master, Q3 vs Q2 volume change, Sep unauthorized return rate, Sep administrative return rate, overall return rate), Flags (one row per merchant that crosses a line in the Risk Policy memo or shows a problem in the correspondence, with the dollars at stake and the source), and Sources (what you read and what you took from each). Then tell me in plain English the three things I should deal with this week, with the dollars attached.
 ```
 
 **Step 3, the dashboard. Opus 5.5, same session.**
 
 ```
-Now turn that workbook into one self-contained HTML dashboard that I can open offline and send to my CEO: a KPI row (TTM debit volume, TTM revenue, blended basis points, portfolio unauthorized return rate), monthly volume and revenue trend, merchant concentration with any merchant over 25% flagged, return rates by merchant against the lines in the Risk Policy memo, and a short note at the top naming the three things to deal with this week. Compute everything from the data; do not hardcode numbers. One pass, then stop. Do not screenshot or test it.
+Now turn that workbook into one self-contained HTML dashboard that I can open offline and send to my CEO: a KPI row (TTM debit volume, TTM revenue, blended basis points, portfolio unauthorized return rate), monthly volume and revenue trend, merchant concentration with any merchant over 25% flagged, return rates by merchant against the lines in the Risk Policy memo, and a short note at the top naming the three things to deal with this week. Compute everything from the data; do not hardcode numbers.
 ```
 
 **Step 4, the skill. Opus 5.5, same session.**
@@ -35,7 +35,7 @@ Wait. I might have to do this again. Turn what we just did in this session into 
 **Step 5, the brand pass. Opus 5.5, same session.**
 
 ```
-Now reference brand-guidelines.md in this folder and follow those guidelines exactly as written. Rebuild the dashboard so it looks like Ironbridge made it. Do not change a single number. Save it as a new file next to the first one. One pass, then stop. Do not screenshot or test it.
+Now reference brand-guidelines.md in this folder and follow those guidelines exactly as written. Rebuild the dashboard so it looks like Ironbridge made it. Do not change a single number. Save it as a new file next to the first one.
 ```
 
 **Step 6, research. Opus 5.5, same session, web search on.**
