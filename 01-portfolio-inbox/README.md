@@ -23,7 +23,7 @@ Now build ironbridge-portfolio-review.xlsx from the activity exports, the mercha
 **Step 3, the dashboard. Opus 5.5, same session.**
 
 ```
-Now turn that workbook into one self-contained HTML dashboard, ironbridge-dashboard.html, that I can open offline and send to my CEO: a KPI row (TTM debit volume, TTM revenue, blended basis points, portfolio unauthorized return rate), monthly volume and revenue trend, merchant concentration with any merchant over 25% flagged, return rates by merchant against the lines in the Risk Policy memo, and a short note at the top naming the three things to deal with this week. Compute everything from the data; do not hardcode numbers. One pass, then stop. Do not screenshot or test it.
+Now turn that workbook into one self-contained HTML dashboard that I can open offline and send to my CEO: a KPI row (TTM debit volume, TTM revenue, blended basis points, portfolio unauthorized return rate), monthly volume and revenue trend, merchant concentration with any merchant over 25% flagged, return rates by merchant against the lines in the Risk Policy memo, and a short note at the top naming the three things to deal with this week. Compute everything from the data; do not hardcode numbers. One pass, then stop. Do not screenshot or test it.
 ```
 
 **Step 4, the skill. Opus 5.5, same session.**
@@ -35,13 +35,13 @@ Wait. I might have to do this again. Turn what we just did in this session into 
 **Step 5, the brand pass. Opus 5.5, same session.**
 
 ```
-Now reference brand-guidelines.md in this folder and follow those guidelines exactly as written. Rebuild the dashboard so it looks like Ironbridge made it. Do not change a single number. Save it as ironbridge-dashboard-branded.html. One pass, then stop. Do not screenshot or test it.
+Now reference brand-guidelines.md in this folder and follow those guidelines exactly as written. Rebuild the dashboard so it looks like Ironbridge made it. Do not change a single number. Save it as a new file next to the first one. One pass, then stop. Do not screenshot or test it.
 ```
 
 **Step 6, research. Opus 5.5, same session, web search on.**
 
 ```
-Search the web for Nacha's current ACH return rate thresholds and the most recent quarterly ACH network volume statistics Nacha has published. Add a Benchmarks section to the bottom of ironbridge-dashboard-branded.html that shows our portfolio return rates next to the Nacha thresholds and our TTM debit volume growth next to the network's growth, and cite each source with a link. Do not change any other number on the page.
+Search the web for Nacha's current ACH return rate thresholds and the most recent quarterly ACH network volume statistics Nacha has published. Add a Benchmarks section to the bottom of the branded dashboard that shows our portfolio return rates next to the Nacha thresholds and our TTM debit volume growth next to the network's growth, and cite each source with a link. Do not change any other number on the page.
 ```
 
 ## The files
