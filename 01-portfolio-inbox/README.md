@@ -11,7 +11,7 @@ The point of the exercise is that nothing can be identified from its filename an
 **Step 1, organize. Sonnet 5.5.**
 
 ```
-This folder is the merchant portfolio inbox my analyst left me and it is a mess. Read every file, then organize it: put monthly activity exports in activity/ named YYYY-MM_ach-activity.csv, the merchant list and pricing in reference/, saved emails and chat exports in correspondence/ named YYYY-MM-DD_short-description with the original extension, and policy documents in policy/. Anything that is a duplicate goes in _review/ under its original name. Anything you cannot identify or date stays where it is. Do not delete anything and do not change what is inside any file. Write WHAT-I-FOUND.md: one table with every original filename, where it went and how you identified it, then a section called Needs a human. When you are done, interview me, one question at a time, about anything in these files you need me to clarify before we analyze them.
+This folder is the merchant portfolio inbox my analyst left me and it is a mess. Read every file, then organize it: put monthly activity exports in activity/ named YYYY-MM_ach-activity.csv, the merchant list and pricing in reference/, saved emails and chat exports in correspondence/ named YYYY-MM-DD_short-description with the original extension, and policy documents in policy/. Anything that is a duplicate goes in _review/ under its original name. Anything you cannot identify or date stays where it is. Do not delete anything and do not change what is inside any file. When you are done, summarize here in the thread: a table of every original filename, where it went and how you identified it, then a short list of anything that needs a human. Then interview me, one question at a time, about anything in these files you need me to clarify before we analyze them.
 ```
 
 **Step 2, the workbook. Switch to Opus 5.5, same session.**
@@ -82,7 +82,7 @@ One row per merchant per month. `returns_unauthorized` is R05, R07, R10, R11 and
 
 ## What's planted
 
-Check Claude's `WHAT-I-FOUND.md`, workbook and dashboard against this list. TTM is October 2025 through September 2026, counting May once. Q2 is April to June 2026, Q3 is July to September 2026.
+Check Claude's summary in the thread, the workbook and the dashboard against this list. TTM is October 2025 through September 2026, counting May once. Q2 is April to June 2026, Q3 is July to September 2026.
 
 | Finding | The fact | Where | What a correct run does with it |
 |---|---|---|---|
@@ -92,7 +92,7 @@ Check Claude's `WHAT-I-FOUND.md`, workbook and dashboard against this list. TTM 
 | May is in the folder twice | `Copy of activity_may_v2.csv` is byte-identical to `activity_may_v2.csv`. Counting May twice inflates TTM volume by about 8.4%. | the two files; the Teams chat ("pulled May twice when the report timed out, one of them is just a copy") | Step 1 moves the copy to `_review/` and says why. Step 2 counts May once. TTM debit volume should be **$2,071,495,418.10** and TTM revenue at the tiers in the master **$2,954,335.45**. |
 | Cedar Falls Collections is leaving | Q3 debit volume ($5,989,590.07) is **38%** under Q2 ($9,660,629.15), falling every month July, August, September. Status in the master is `Notice given`. There is no email about it; the Teams chat says they "went quiet since July". | the exports; the master; the Teams chat | A By Merchant row showing the Q3 vs Q2 drop, a Flags row citing the status and the chat. Not one of the three things this week (the decision has already been made), but it should be named. |
 | Administrative returns are drifting up | The portfolio administrative return rate goes from **1.9%** in October 2025 to **2.6%** in September 2026. Under Nacha's 3.0% every month. The memo's 2.5% internal line applies to each merchant, and by September a number of merchants sit between 2.5% and 3.0% while none crosses Nacha's line. | the exports, divided out; the Teams chat (the risk analyst mentions it) | Named as a trend in the Summary or dashboard, not a top-three item. A run that lists every merchant over 2.5% in September on the Flags tab is not wrong; a run that calls it the week's priority has missed the point. |
-| Two files need a human | `scan_0097.pdf` is a blank page with no text. `lunch order thursday.txt` is sandwich orders with no date. | the two files | Both stay where they are and appear under "Needs a human" in `WHAT-I-FOUND.md`. |
+| Two files need a human | `scan_0097.pdf` is a blank page with no text. `lunch order thursday.txt` is sandwich orders with no date. | the two files | Both stay where they are and appear under "Needs a human" in the summary Claude posts in the thread. |
 
 Other things a good run notices: Redfern Apparel onboarded August 11 2026 and has only two months of data (status `Onboarding`), so it should not be judged on Q3 vs Q2. Three merchants renew October 31 2026 (Pinecrest, Stonebridge, Brightwater). The portfolio unauthorized rate in September is well under 0.40% even with Summit Ridge in it, which is why the merchant-level view matters.
 
@@ -108,7 +108,7 @@ correspondence/2026-09-30_teams-merchant-ops-september.txt   (or dated 2026-10-0
 policy/Risk Policy memo.docx
 _review/Copy of activity_may_v2.csv
 scan_0097.pdf, lunch order thursday.txt                      left in place
-WHAT-I-FOUND.md, README.md, brand-guidelines.md
+README.md, brand-guidelines.md
 ```
 
 The short descriptions in the correspondence names will vary. The dates should not.

@@ -31,7 +31,7 @@ _review/<original name>                  duplicates, byte-identical copies, supe
 (root)                                   anything unidentifiable or undated stays put
 ```
 
-Write `WHAT-I-FOUND.md`: one table (original filename, where it went, how identified) and a **Needs a human** section listing the undated/unidentifiable files, every place a reference file disagrees with correspondence, and anything in the chat that nobody answered.
+Summarize in the thread, not in a file: one table (original filename, where it went, how identified) and a **Needs a human** section listing the undated/unidentifiable files, every place a reference file disagrees with correspondence, and anything in the chat that nobody answered.
 
 Then interview the user one question at a time. Always ask these, in this order, unless the files already settle them:
 1. Confirm that any duplicate month is counted once.

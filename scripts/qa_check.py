@@ -272,7 +272,7 @@ text_files = [os.path.join(ROOT, "README.md"), os.path.join(D01, "README.md"), o
 dashes = [os.path.relpath(p, ROOT) for p in text_files if os.path.exists(p) and ("—" in open(p).read() or "–" in open(p).read())]
 check(dashes == [], "no em or en dashes in READMEs, skills, brand guidelines or text files (%s)" % (dashes or "clean"))
 gi = open(os.path.join(ROOT, ".gitignore")).read()
-for need in ("WHAT-I-FOUND.md", "activity/", "reference/", "correspondence/", "policy/", "_review/", "ironbridge-portfolio-review.xlsx", "*.html"):
+for need in ("activity/", "reference/", "correspondence/", "policy/", "_review/", "ironbridge-portfolio-review.xlsx", "*.html"):
     check(need in gi, ".gitignore ignores attendee output %s" % need)
 
 # ------------------------------------------------------------ hygiene
