@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+.DS_Store
+
+# Attendee output from running the exercise in 01-portfolio-inbox/.
+# The 22 messy source files, README.md and brand-guidelines.md ARE committed.
+01-portfolio-inbox/activity/
+01-portfolio-inbox/reference/
+01-portfolio-inbox/correspondence/
+01-portfolio-inbox/policy/
+01-portfolio-inbox/_review/
+01-portfolio-inbox/WHAT-I-FOUND.md
+01-portfolio-inbox/ironbridge-portfolio-review.xlsx
+01-portfolio-inbox/prep-*.md
+01-portfolio-inbox/digest-*.md
+*.html
+02-skills/merchant-portfolio-review/

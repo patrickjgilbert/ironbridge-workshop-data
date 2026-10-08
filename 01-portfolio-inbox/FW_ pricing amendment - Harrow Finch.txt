@@ -1,0 +1,51 @@
+From: Greg Tanaka <greg.tanaka@ironbridgepay.example>
+To: Maya Okafor <maya.okafor@ironbridgepay.example>
+Cc: Ben Castellano <ben.castellano@ironbridgepay.example>; Jenna Okoye <jenna.okoye@ironbridgepay.example>
+Date: Friday, March 27, 2026 2:51 PM
+Subject: FW: Pricing amendment - Harrow & Finch Receivables - countersigned
+
+Maya,
+
+Countersigned copy below. Harrow & Finch moves from Tier B to Tier C effective April 1. Their trailing three months came in under $5 million a month and Karen asked for the review rather than wait for us.
+
+Ben, please update the pricing tier in the merchant master before the April close so billing picks it up. Jenna, FYI since it is your account.
+
+Greg Tanaka
+Director, Merchant Contracts
+Ironbridge Payments
+
+-----Original Message-----
+From: Karen Oyelaran <k.oyelaran@harrowfinch.example>
+Sent: Friday, March 27, 2026 1:18 PM
+To: Greg Tanaka <greg.tanaka@ironbridgepay.example>
+Subject: RE: Pricing amendment - Harrow & Finch Receivables
+
+Greg,
+
+Signed by both of us. Text of the amendment is pasted below for the file since our scanner is still out. The original is in the mail.
+
+Thank you for turning this around quickly.
+
+Karen Oyelaran
+Chief Financial Officer
+Harrow & Finch Receivables, LLC
+
+
+AMENDMENT NO. 2 TO MERCHANT PROCESSING AGREEMENT
+
+This Amendment No. 2 (the "Amendment") is made as of March 26, 2026 between Ironbridge Payments, Inc. ("Ironbridge") and Harrow & Finch Receivables, LLC ("Merchant") and amends the Merchant Processing Agreement dated November 2, 2020 (the "Agreement").
+
+1. Pricing tier. Effective April 1, 2026, Merchant's pricing tier under Schedule A of the Agreement is changed from Tier B to Tier C. From that date Merchant's ACH debit pricing is $0.18 per debit item and 15 basis points on debit volume, as set out in the Ironbridge Merchant Pricing Schedule 2026.
+
+2. Basis. The parties acknowledge that Merchant's average monthly ACH debit volume for the three months ended February 28, 2026 was below $5,000,000, and that under the Pricing Schedule Tier C applies to merchants under $5,000,000 in monthly debit volume.
+
+3. Other pricing. Credit items, card acceptance and remote check capture pricing are unchanged.
+
+4. Review. Ironbridge will review Merchant's tier at the next quarterly review and the parties will execute a further amendment if Merchant's volume returns to the Tier B range for three consecutive months.
+
+5. Effect. Except as changed by this Amendment the Agreement remains in full force.
+
+Ironbridge Payments, Inc.                        Harrow & Finch Receivables, LLC
+By: Greg Tanaka                                  By: Karen Oyelaran
+Title: Director, Merchant Contracts              Title: Chief Financial Officer
+Date: March 26, 2026                             Date: March 27, 2026

@@ -1,0 +1,24 @@
+month,merchant_id,merchant_name,vertical,debit_count,debit_volume,credit_count,credit_volume,returns_total,returns_unauthorized,returns_administrative,returns_nsf,card_volume
+2025-11,M-1001,Northgate BNPL,BNPL,76015,52101000.46,1640,168688.53,4256,106,1436,2528,281848.21
+2025-11,M-1002,Blue Heron Consumer Finance,Consumer lending,13639,17639540.11,120,39934.68,1271,24,277,935,45783.40
+2025-11,M-1003,Summit Ridge Lending,Consumer lending,15827,8415311.89,135,32617.77,1346,37,241,1016,20871.47
+2025-11,M-1004,Harrow & Finch Receivables,Collections / ARM,172128,5383652.58,470,29650.33,15898,185,3686,11225,8014.12
+2025-11,M-1005,Cedar Falls Collections,Collections / ARM,7465,3199602.23,22,2228.09,725,10,153,538,4853.55
+2025-11,M-1006,Keystone Credit Partners,Consumer lending,9240,12348998.78,83,25127.88,827,15,176,601,28040.18
+2025-11,M-1007,Larkspur Lending,Consumer lending,3036,3439577.66,38,8228.34,284,7,62,204,9779.01
+2025-11,M-1008,Pinecrest Installment Loans,Consumer lending,6183,6749504.33,54,13389.83,538,11,117,388,17429.38
+2025-11,M-1009,Meridian Personal Finance,Consumer lending,2775,2644837.71,26,5549.09,256,6,59,180,7967.54
+2025-11,M-1010,Oakhaven Credit Services,Consumer lending,3131,3724783.43,24,6330.85,256,4,56,186,8037.61
+2025-11,M-1011,Tri-County Auto Credit,Auto finance,15673,14385655.65,99,39305.50,1035,13,294,689,20931.84
+2025-11,M-1012,Westbrook Motor Acceptance,Auto finance,9910,8653626.95,56,22870.48,738,12,183,523,14144.56
+2025-11,M-1013,Copperline Auto Finance,Auto finance,3750,3153047.19,23,7865.90,275,5,76,183,4387.52
+2025-11,M-1014,Rivermark Recovery Group,Collections / ARM,11267,5714278.90,34,3301.60,1079,15,227,795,8437.69
+2025-11,M-1015,Stonebridge Receivables,Collections / ARM,4458,2240718.64,14,1290.62,399,7,95,286,3414.22
+2025-11,M-1016,Northfield Collection Services,Collections / ARM,3539,1636669.75,15,1104.02,347,7,78,253,2475.62
+2025-11,M-1017,Halvorsen & Dade Recovery,Collections / ARM,2555,1094293.41,11,828.44,232,7,53,164,1789.82
+2025-11,M-1018,Fernwood Pay,BNPL,7227,3942284.35,157,11529.45,436,15,128,282,38619.06
+2025-11,M-1019,Ashgrove Installments,BNPL,10846,6542920.57,176,13374.37,536,17,190,315,58989.46
+2025-11,M-1020,Lakeline Outdoor Supply,E-commerce,5597,2258631.07,299,26546.10,195,4,99,84,192952.75
+2025-11,M-1021,Brightwater Nutrition,E-commerce,5502,1733628.48,369,21340.51,202,6,97,92,166528.60
+2025-11,M-1022,Juniper Home Goods,E-commerce,2966,1118698.29,142,14049.16,101,2,51,44,106582.30
+2025-11,M-1024,Elmhurst Property Management,Property management,2232,5197127.78,10,9373.88,93,1,33,56,0.00

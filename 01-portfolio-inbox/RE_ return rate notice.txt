@@ -1,0 +1,38 @@
+From: Rachel Lindqvist <rlindqvist@summitridgelending.example>
+To: Maya Okafor <maya.okafor@ironbridgepay.example>
+Cc: Tom Hallstrom <tom.hallstrom@ironbridgepay.example>
+Date: Thursday, September 24, 2026 4:12 PM
+Subject: RE: Return rate notice - Summit Ridge Lending - August 2026
+
+Maya,
+
+I have your letter from Monday in front of me and I want to push back before this goes any further.
+
+Every one of our borrowers authorizes every debit inside the app. They see the amount, they see the date, they tap to confirm, and we keep the record. Nobody at Summit Ridge is pulling money from an account without consent, and a letter that puts the word "unauthorized" next to our name is not something I can take to my board without the detail behind it.
+
+So I need the underlying entries. For every return you are counting as unauthorized in August, send me the trace number, the return reason code, the settlement date and the amount. Not a total, the entries. Our servicing team will match each one to its authorization record and we will tell you what we find.
+
+One thing that may be relevant: in June we changed our debit timing. We used to pull on each borrower's pay date. Starting in June we moved everyone to a fixed cycle on the 1st and the 15th so that our collections team could work exceptions in two batches instead of all month. The borrowers were notified in the app and by email. If some of them are disputing debits that landed on a date they did not expect, that is a timing issue, not an authorization issue, and I would like to understand it before anyone calls it a pattern.
+
+I am available Monday or Tuesday for a call. Please include Tom.
+
+Rachel Lindqvist
+Chief Operating Officer
+Summit Ridge Lending
+
+-----Original Message-----
+From: Maya Okafor <maya.okafor@ironbridgepay.example>
+Sent: Monday, September 21, 2026 9:40 AM
+To: Rachel Lindqvist <rlindqvist@summitridgelending.example>
+Cc: Tom Hallstrom <tom.hallstrom@ironbridgepay.example>
+Subject: Return rate notice - Summit Ridge Lending - August 2026
+
+Rachel,
+
+This is the formal notice I mentioned on the phone. Summit Ridge's unauthorized return rate for August 2026 was 0.52% of debit entries originated, which is above the Nacha network threshold of 0.5% and above Ironbridge's internal warning line of 0.40% for the second month in a row. Under our merchant risk policy that means we need a written remediation plan from you within ten business days, and I have to tell you plainly that a second month over the network threshold starts a termination review on our side whether or not either of us wants it.
+
+I know this is not the direction either of us expected the account to go. Tom will send the August return detail by code tomorrow, and I would rather spend the call on what changed than on the letter.
+
+Maya Okafor
+VP, Merchant Services
+Ironbridge Payments

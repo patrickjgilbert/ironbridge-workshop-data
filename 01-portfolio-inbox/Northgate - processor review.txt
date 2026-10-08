@@ -1,0 +1,25 @@
+From: Daniel Achebe <dachebe@northgatebnpl.example>
+To: Maya Okafor <maya.okafor@ironbridgepay.example>
+Cc: Priya Raman <priya.raman@ironbridgepay.example>
+Date: Friday, September 18, 2026 11:06 AM
+Subject: Northgate - processor review
+
+Maya,
+
+I wanted you to hear this from me rather than from a procurement email.
+
+Our board has asked us to run a processor review before the contract renews at year end. We are talking to two other providers alongside Ironbridge. The decision will be made by November 15 so that whoever we choose has time to be in place for the January cycle.
+
+To be direct about where we stand: the service has been good, Priya is responsive, and nobody here is looking to leave for the sake of it. But we sent you a little over $52 million in debits in August alone and the volume keeps growing, and at that size the board wants to know the pricing reflects it. The other two have both come in under our current per-item rate.
+
+Two things I need from Ironbridge by October 16:
+
+1. Your best and final on pricing. Per item and basis points, for the volume we are running now, not the volume we were running when the agreement was signed.
+
+2. A return-handling SLA in writing. Specifically: return files delivered by 7:00 AM Eastern the banking day after settlement, R10 and R11 returns flagged to us within 24 hours with the trace number and consumer name, and a named contact who can answer a return question the same day. Today this works because Priya makes it work. We need it in the agreement.
+
+If you want to talk before you put anything in writing, I am free most of next week.
+
+Daniel Achebe
+VP Finance
+Northgate BNPL

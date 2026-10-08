@@ -1,0 +1,37 @@
+Merchant Ops - Microsoft Teams channel export
+Exported by Maya Okafor on 2026-10-06, messages 2026-09-01 to 2026-09-30
+
+[2026-09-01 08:14] Jenna Okoye: Morning. August export is up in the shared folder. Ben is out as of today so I pulled it myself, let me know if anything looks off.
+[2026-09-01 08:22] Tom Hallstrom: thanks. did the May file ever get cleaned up? there are still two of them in there
+[2026-09-01 08:31] Jenna Okoye: Ben pulled May twice when the report timed out, one of them is just a copy, ignore it. He said he'd delete it and then he went on leave.
+[2026-09-01 08:33] Tom Hallstrom: ok. leaving it alone then, not my folder
+[2026-09-02 10:05] Dev Mehta: August return rates are out. Summit Ridge unauthorized is climbing again, 0.44 in July and 0.52 in August. That is two months over our line and now over the Nacha line too.
+[2026-09-02 10:07] Tom Hallstrom: I know. Rachel is going to lose it when the letter goes out. they are adamant everything is authorized in the app
+[2026-09-02 10:12] Dev Mehta: Reminder for everyone since we have a few newer merchants: Ironbridge's internal warning line is 0.40% unauthorized, tighter than Nacha's 0.50%. We act at 0.40, the network acts at 0.50. Admin is 2.5 internal, 3.0 network. Overall 12 and 15.
+[2026-09-02 10:15] Priya Raman: is the Nacha letter risk real for Summit or is that a Dev worst case
+[2026-09-02 10:19] Dev Mehta: It is real. Two consecutive months over 0.5 and the ODFI can require a reduction plan and Nacha can open an inquiry. Maya's letter has to go out this month under the policy. I am not making this up to scare Tom.
+[2026-09-02 10:20] Tom Hallstrom: noted. I'll draft it for Maya today
+[2026-09-03 14:40] Luis Ferreira: Pinecrest renewal is Oct 31. anyone know if Greg has the paper started or do I need to chase
+[2026-09-03 14:52] Jenna Okoye: chase. he is buried in the Tri-County card addendum
+[2026-09-04 09:02] Priya Raman: Redfern Apparel is live as of Aug 11, first partial month in the August file. expect them to look tiny until October
+[2026-09-04 09:30] Jenna Okoye: Has anyone heard from Cedar Falls? They went quiet since July. Volume is off a cliff and nobody there answers me. Their renewal is November and I have a bad feeling they are not renewing.
+[2026-09-04 09:33] Luis Ferreira: I saw their August number, 2.0 million? they were doing three and change in the spring
+[2026-09-04 09:35] Jenna Okoye: yes. and the status in the master says Notice given, which I did not put there, so somebody heard something. Ben maybe. I'll ask Greg.
+[2026-09-08 11:18] Tom Hallstrom: Summit letter went to Maya for signature. Rachel's going to ask for every entry, I already know it
+[2026-09-08 11:25] Dev Mehta: Give her the entries. That is the right ask. Have her look at what changed in June, the jump starts there.
+[2026-09-09 15:47] Jenna Okoye: Did Harrow & Finch's new pricing ever make it into the master? Karen signed it back in March and I honestly do not remember seeing the tier change.
+[2026-09-09 16:30] Luis Ferreira: Westbrook asked for a Q4 volume forecast template. do we have one or do I make one
+[2026-09-09 16:41] Priya Raman: make one. there is nothing
+[2026-09-11 08:50] Priya Raman: heads up, Daniel at Northgate wants a call with Maya next week. he would not say what about. not a return thing, their rates are fine
+[2026-09-11 08:55] Tom Hallstrom: that is never good when they will not say
+[2026-09-14 13:02] Dev Mehta: Admin returns across the book keep creeping up. Nothing over a line yet but it has gone up a little every quarter for a year. Mostly R03 and R04. I think a few of the ARM shops are loading old account numbers. Will put it in the quarterly.
+[2026-09-14 13:10] Jenna Okoye: Rivermark admitted they bought a portfolio in the spring with bad account data. that is probably some of it
+[2026-09-16 10:22] Luis Ferreira: Stonebridge renewal also Oct 31. two for Greg. adding to his list
+[2026-09-18 11:40] Priya Raman: Northgate call happened. It is a processor review. Two other providers. Decision by Nov 15. Maya has the email. I would like everyone to not panic in this channel please.
+[2026-09-18 11:42] Tom Hallstrom: that is a quarter of the book
+[2026-09-18 11:43] Priya Raman: I am aware
+[2026-09-22 09:15] Jenna Okoye: Maya's Summit letter went out yesterday. Tom you are cc'd.
+[2026-09-24 16:30] Tom Hallstrom: Rachel replied. she wants every entry and she says they changed debit timing in June. Dev was right. forwarding to Maya
+[2026-09-25 08:05] Dev Mehta: September close is Oct 5. I will have rates out Oct 7. If Summit is over 0.5 again it goes to Helen for termination review, that is not my call to soften.
+[2026-09-29 12:12] Luis Ferreira: lunch order for thursday is in the shared folder, add yourself
+[2026-09-30 17:01] Jenna Okoye: September export will be in the folder once the batch finishes tonight. Same file name mess as always, sorry, Ben's naming is Ben's naming.
