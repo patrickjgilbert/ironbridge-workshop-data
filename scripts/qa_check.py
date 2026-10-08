@@ -249,7 +249,7 @@ f_rd = open(os.path.join(D01, "README.md")).read()
 brand = open(os.path.join(D01, "brand-guidelines.md")).read()
 prompts = ["This folder is the merchant portfolio inbox my analyst left me and it is a mess.",
            "Now build ironbridge-portfolio-review.xlsx from the activity exports",
-           "Now turn that workbook into one self-contained HTML dashboard, ironbridge-dashboard.html",
+           "Now turn that workbook into one self-contained HTML dashboard that I can open offline",
            "Turn what we just did in this session into a skill called merchant-portfolio-review",
            "Now reference brand-guidelines.md in this folder and follow those guidelines exactly as written.",
            "Search the web for Nacha's current ACH return rate thresholds"]
